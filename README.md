@@ -1,6 +1,6 @@
 # <i>Integracion Continua</i>
 
-Ejemplo en PHP
+Hola Mundo en PHP
 
 <b>Integrantes:</b><br><br>
 Boris David Cuellar Urrea<br>
