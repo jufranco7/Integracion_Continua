@@ -1,7 +1,7 @@
 <html>
  <head>
   <title>Saludo PHP</title>
- </head>hi
+ </head>
  <body>
 	<h1>Hola Mundo!</h1>
  </body>
