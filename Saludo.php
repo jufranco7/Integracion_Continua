@@ -4,6 +4,6 @@
  </head>
  <body>
 	<h1>Hola Mundo!</h1>
-	 <h2>Eres grande..</h2>
+	 <h2>Eres grande</h2>
  </body>
 </html>
